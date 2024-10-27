@@ -1,5 +1,8 @@
 # Maximum-Subarray
 Leetcode probleam medium 53 
+<br>
 uses Kadane's Algorithms find subarray concept
-max contigaus sum arr
+<br>
+max contigaus sum array
+<br>
 find sub arr sum
